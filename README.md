@@ -5,3 +5,7 @@
 
 
 ![](https://raw.githubusercontent.com/borisfromsouth/github-stats/master/generated/languages.svg)
+
+
+
+![](/borisfromsouth/github-stats/master/generated/languages.svg)
